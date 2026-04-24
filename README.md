@@ -8,7 +8,6 @@ This repository contains a simple login form UI with client-side validation and 
 
 Preview
 -------
-![Login Form Screenshot](./Screenshot 2024-07-28 010413.png)
 
 Files
 -----
