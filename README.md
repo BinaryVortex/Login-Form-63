@@ -4,10 +4,12 @@ A clean, responsive login form built using HTML, CSS, and JavaScript.
 
 Description
 -----------
-This repository contains a simple login form UI with client-side validation and styling. It was created as a small front-end exercise and is easy to drop into any static site or use as a starting point for authentication UI experiments.
+This repository contains a simple login form UI with client-side validation and styling. It was created as a small front-end exercise and is easy to drop into any static site or use as a starting p[...]
 
 Preview
 -------
+
+![Preview screenshot](https://raw.githubusercontent.com/BinaryVortex/Login-Form-63/main/Screenshot%202024-07-28%20010413.png)
 
 Files
 -----
